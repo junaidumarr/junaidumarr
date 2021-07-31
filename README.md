@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Kotlin and Agile paractices
 - 🌱 I’m currently learning KMM
 - 💞️ I’m looking to collaborate on Kotlin
-- 📫 How to reach me jjunaidumer@gmial.com
+- 📫 How to reach me jjunaidumer@gmail.com
 
 <!---
 junaidumarr/junaidumarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
